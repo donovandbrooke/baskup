@@ -1,3 +1,7 @@
+# baskupDB by Donovan Brooke
+
+baskupDB is based off PeterKaminski09's baskup. I will add some formatting and some new features (Oct 2015).
+
 # What is baskup?
 
 baskup is a bash script that is aimed at taking your iMessages, which Apple stores on your local machine in non-readable iChat files, and copying them into human-readable text files.
